@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+paypal.com	TRUE	/	FALSE	1999999999	X-PP-SILOVER	name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Ddirectresp%26TIME%3D1592108087%26HTTP_X_PP_AZ_LOCATOR%3D
+paypal.com	TRUE	/	FALSE	1999999999	X-PP-L7	1
+.paypal.com	TRUE	/	FALSE	1999999999	x-cdn	akamai
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1592108687~id=348f1fbc37ab59dba4c6e8ef09df3917
+www.paypal.com	TRUE	/	FALSE	1999999999	SameSite	None
+
